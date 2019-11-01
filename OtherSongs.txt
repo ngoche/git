@@ -1,3 +1,10 @@
-﻿Thành phố bé đến thế thôi
-Mà tìm hoài không thấy
-Chút ấm áp, chút yêu thương riêng mình.
+﻿<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
