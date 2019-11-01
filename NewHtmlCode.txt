@@ -6,6 +6,7 @@
 <p>My Header test</p>
 <div>
      <span>Hot fix some err</span>
+     <span>Hot fix 2</span>
 </div>
 
 <svg width="100" height="100">
