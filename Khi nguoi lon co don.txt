@@ -27,10 +27,4 @@ Từ radio phát lên, nghe thật buồn (buồn lắm)
 Người lớn cô đơn, tự mình trong bao nghĩ suy
 Ngồi bên ai sao thấy riêng tôi quạnh hiu !!!
 
--- dòng này được sửa tại origin1
-<<<<<<< HEAD
-
--
-=======
 -- dong nay duoc sua de test rebase
->>>>>>> Rebase testing
