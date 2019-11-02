@@ -17,7 +17,7 @@
 <div>
 	<span>Fix before switch new branch</span>
 	<span>Fix affter</span>
-	<span></span>
+	<span>Fix affter stage</span>
 	<span></span>
 	<span></span>
 	<span></span>
