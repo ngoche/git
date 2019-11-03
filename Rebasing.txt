@@ -1,5 +1,9 @@
 this from masters1
 
 
+<<<<<<< HEAD
 this henv 
 <span>2</span>
+=======
+this henv 
+>>>>>>> 627a62aaa59f8cb5f9401744c83485ff142c4a30
