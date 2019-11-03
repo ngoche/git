@@ -5,8 +5,9 @@
 <h1>My first SVG</h1>
 <p>My Header test</p>
 <div>
-     <span>Hot fix some err</span>
-     <span>Hot fix 2</span>
+	<span>Kiem tra rebase</span>
+        <span>Hot fix some err</span>
+        <span>Hot fix 2</span>
 	<span>Hot fix 3</span>
 	<span>Conflig testing </span>
 	<span>Rebase test</span>
