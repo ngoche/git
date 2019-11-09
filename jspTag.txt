@@ -3,7 +3,6 @@
 </head>
 <body>
 <header>
-This is header
 </header>
 <section>
 	<article>
