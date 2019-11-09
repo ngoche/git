@@ -1,5 +1,17 @@
-this from masters1
+<html>
+<head>
+</head>
+<body>
+<header>
+</header>
+<section>
+	<article>
 
-
+	</article>
+</section>
 <span>2</span>
-<p>sua mot so thu de test stash file</p>	
+<p>sua mot so thu de test stash file</p>
+<footer>
+
+</footer>
+</body>
